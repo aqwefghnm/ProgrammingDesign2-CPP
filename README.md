@@ -1,1 +1,1 @@
-# ProgrammingDesign2-CPP
+# ProgrammingDesign2-CPP by QT
